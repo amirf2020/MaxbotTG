@@ -1,18 +1,14 @@
-# [Mega website](https://newsandroid.ir)
+# [MaxbotTG](https://telegram.me/maxbottg)
 
 
-**the Best Plugins For Supergroup Bots**.
+**The Anti Spam and Group Manager Bot**.
 # Features
 
 * work with supergroup
 
 # Our Team
 
-* [HaMeD](telegram.me/tehran980)
+* [just 1!](telegram.me/fakeadmin)
 
 Best Plugins For You
 
-# My Website and Channel
-
-* [newsandroid](http://newsandroid.ir)
-* [Channel](telegram.me/newsandroid)
